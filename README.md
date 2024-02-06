@@ -1,4 +1,4 @@
 # OCR-project
 
  -pip install transformers
- -pip install 
+ -pip install datasets jiwer
